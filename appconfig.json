@@ -1,0 +1,11 @@
+{
+  "BrowserType": {
+    "ChromeBrowser": "chrome"
+
+  },
+  "SearchEngine": {
+    "Google": "https://google.com",
+    "Bing": "https://bing.com",
+    "Yahoo": "https://in.search.yahoo.com"
+  }
+}
